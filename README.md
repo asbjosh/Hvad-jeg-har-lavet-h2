@@ -1,5 +1,5 @@
 # Hvad-jeg-har-lavet-h2
-Netværk
+### Netværk
 På mit andet hovedforløb arbejdede jeg intensivt med netværk og netværkskonfiguration, hvor jeg har opnået både teoretisk forståelse og praktiske færdigheder. Undervisningen fulgte CCNA2-forløbet fra Cisco Networking Academy, som jeg har gennemført og bestået.
 Jeg har lært at opsætte og konfigurere routede netværksløsninger, herunder hvordan trafik bevæger sig gennem netværket baseret på routerens routingtabel (både i IPv4 og IPv6). Jeg har lært at beregne IP-ranges ud fra subnetmasker og wildcard-masker, hvilket er essentielt for korrekt adressering og netværksdesign.
 Derudover har jeg arbejdet med switches, hvor jeg har lært, hvordan de fungerer og anvendes i virksomheders netværksinfrastruktur. Jeg har konfigureret VLANs, trunking og port-security, samt opsat Inter-VLAN routing ved hjælp af både routere og Layer 3 switches.
@@ -7,3 +7,10 @@ Sikkerhed har også været et fokusområde, hvor jeg har konfigureret basale sik
 I forhold til routing har jeg arbejdet med både statisk og dynamisk routing. Jeg har blandt andet konfigureret statisk routing mellem routere samt dynamisk routing med RIP. Jeg har også lært at konfigurere og forklare funktionen af en default route, samt forskellene mellem de forskellige typer dynamiske routingprotokoller – såsom IGP og EGP, Distance Vector og Link State.
 Endelig har jeg arbejdet med Access Control Lists (ACLs) og Network Address Translation (NAT), hvor jeg har lært at regulere netværkstrafik og oversætte adresser for at muliggøre internetadgang fra et internt netværk.
 Alt i alt har netværksdelen givet mig en stærk grundforståelse af netværksteknologier og praktisk erfaring med at konfigurere netværksudstyr på en professionel måde.
+
+### Objektorienteret programmering
+På hovedforløbet har jeg arbejdet intensivt med objektorienteret programmering, primært i C#. Jeg har udviklet konsolapplikationer med flere klasser, hvor jeg har anvendt centrale OOP-principper som indkapsling, arv og polymorfi. Jeg har opnået en solid forståelse for sproget og .NET-frameworket og lært at designe og implementere egne klasser, interfaces og domænemodeller baseret på best practice.
+Jeg har arbejdet med forskellige collections (såsom List, Dictionary, HashSet), og har lært at vælge den rette type afhængigt af konteksten. Derudover har jeg anvendt exception handling til at gøre mine programmer mere robuste og fejltolerante.
+Jeg har også arbejdet med abstrakte klasser, overriding vs. overloading, samt access modifiers, hvor jeg har lært at beskytte data og strukturere mine programmer hensigtsmæssigt. I forhold til mere avancerede emner har jeg lært at anvende lambda-udtryk, funktionelle callbacks, samt at designe programmer med løs kobling og lav afhængighed mellem moduler.
+Vi har også arbejdet med asynkron programmering og multitrådede applikationer. Jeg har lært at bruge threads og async/await-mønstre, og forstået udfordringer som deadlocks, race conditions og thread safety. Vi har gennemgået, hvordan man bruger framework-klasser, der hjælper med at håndtere synkronisering og undgå de klassiske fejl.
+For at samle det hele lavede jeg til sidst en afsluttende opgave, hvor jeg skulle implementere så mange af de lærte koncepter som muligt. Her kombinerede jeg objektorienteret design med multitrådning og avanceret brug af collections, interfaces og asynkrone metoder. Det gav mig en rigtig god forståelse af, hvordan OOP bruges i praksis til at skabe struktureret, genbrugelig og vedligeholdelsesvenlig kode.
