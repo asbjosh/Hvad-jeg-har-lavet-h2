@@ -1,4 +1,4 @@
-# Hvad-jeg-har-lavet-p-h2
+# Hvad-jeg-har-lavet-h2
 Netværk
 På mit andet hovedforløb arbejdede jeg intensivt med netværk og netværkskonfiguration, hvor jeg har opnået både teoretisk forståelse og praktiske færdigheder. Undervisningen fulgte CCNA2-forløbet fra Cisco Networking Academy, som jeg har gennemført og bestået.
 Jeg har lært at opsætte og konfigurere routede netværksløsninger, herunder hvordan trafik bevæger sig gennem netværket baseret på routerens routingtabel (både i IPv4 og IPv6). Jeg har lært at beregne IP-ranges ud fra subnetmasker og wildcard-masker, hvilket er essentielt for korrekt adressering og netværksdesign.
