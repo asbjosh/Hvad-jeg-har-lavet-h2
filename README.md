@@ -1,6 +1,6 @@
 # Hvad-jeg-har-lavet-h2
 ### Netværk
-På mit andet hovedforløb arbejdede jeg meded netværk og netværkskonfiguration. Undervisningen fulgte CCNA2-forløbet fra Cisco Networking Academy, som jeg har gennemført og bestået.
+På mit andet hovedforløb arbejdede jeg med netværk og netværkskonfiguration. Undervisningen fulgte CCNA2-forløbet fra Cisco Networking Academy, som jeg har gennemført og bestået.
 Jeg lærte at opsætte og konfigurere routede netværksløsninger, hvordan trafik bevæger sig gennem netværket baseret på routerens routingtabel (både i IPv4 og IPv6). Jeg har lært at beregne IP-ranges ud fra subnetmasker, som er essentielt for korrekt adressering og netværksdesign. Jeg har også arbejdet med switches, hvor jeg har lærte om, hvordan de fungerer og anvendes i virksomheders netværksinfrastruktur. Jeg har konfigureret VLANs, trunking og port-security, samt opsat Inter-VLAN routing ved hjælp af både routere og Layer 3 switches. Jeg har konfigureret sikkerhedsfunktioner på routere og switches, såsom adgangskoder og SSH. Jeg har også lært at konfigurere DHCP på routere, så man automatisk kan få tildelt IP-adresser. Jeg har også lært at konfigurere og forklare funktionen af en default route, samt forskellene mellem de forskellige typer dynamiske routingprotokoller, såsom IGP og EGP, Distance Vector og Link State. Alt i alt har netværksdelen givet mig en stærk grundforståelse af netværksteknologier og praktisk erfaring med at konfigurere netværksudstyr på en professionel måde.
 
 ### Objektorienteret programmering
